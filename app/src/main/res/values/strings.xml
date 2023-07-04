@@ -1,0 +1,8 @@
+<resourcesq>
+    <string name="app_name">MyHelloCustomer</string>
+    <string name="tv_live">住まい</string>
+    <string name="tv_name">お名前</string>
+    <string name="bt_show">表示</string>
+    <string name="bt_live">住まいクリア</string>
+    <string name="bt_name">お名前クリア</string>
+</resourcesq>
